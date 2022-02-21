@@ -1,2 +1,2 @@
-# banner-ad-microfrontend-container
-The container app that contains the microfrontends
+# banner-ad-microfrontend
+One container app and microfrontends with customized content.
