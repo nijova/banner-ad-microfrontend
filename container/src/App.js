@@ -10,7 +10,6 @@ function Mf1() {
 }
 
 function App() {
-  console.log(mf1Host);
   return (
     <BrowserRouter>
       <React.Fragment>
