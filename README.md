@@ -18,3 +18,10 @@ cd mf1;
 npm install;
 npm start;
 ```
+
+Same for all other microfrontends:
+```
+cd mf2;
+npm install;
+npm start;
+```
